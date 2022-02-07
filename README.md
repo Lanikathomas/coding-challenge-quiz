@@ -10,4 +10,4 @@ This quiz is to test your knowledge with JavaScript. If you answer a question in
 <img width="1440" alt="Screen Shot 2022-01-30 at 5 08 34 PM" src="https://user-images.githubusercontent.com/95833323/151726193-c89dac1c-f4da-4e52-82c4-1238e05ad6c8.png">
 
 # Link to website
-https://github.com/Lanikathomas/coding-challenge-quiz.git
+https://lanikathomas.github.io/coding-challenge-quiz/
